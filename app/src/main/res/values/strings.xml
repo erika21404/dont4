@@ -1,3 +1,5 @@
 <resources>
+    <string name="dont4_name">dont4</string>
+    <string name="Result_name">Result</string>
     <string name="app_name">dont</string>
 </resources>
